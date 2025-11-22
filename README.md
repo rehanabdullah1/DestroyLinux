@@ -1,1 +1,1 @@
-I Am Not Responsable For Any Damages By Downloading The File You Agree To This Message 
+I Am Not Responsible  For Any Damages By Downloading The File You Agree To This Message 
